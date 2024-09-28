@@ -15,8 +15,8 @@ const TITANS_2019 = '390.l.887953';
 const TITANS_2023 = '423.l.234495';
 const TITANS = '449.l.473600';
 const LADS = '449.l.767057';
-const MOCK_DRAFT = '449.l.9473345'
-const LEAGUE_KEY = MOCK_DRAFT;
+const MOCK_DRAFT = '449.l.9877371'
+const LEAGUE_KEY = TITANS;
 
 // import * as playersJson from `../assets/player-data/players-${LEAGUE_KEY}.json`
 
@@ -50,10 +50,12 @@ export default function Main({ players }) {
     const data = await api('/league/draft_results', {
       leagueKey,
     });
-    console.log('LOG: data', data);
+    console.log('LOG: draftResults data', data);
+
+    const reversedResults = data?.draft_results?.reverse()
 
     setDraftStatus(data?.draft_status);
-    setDraftResults(data?.draft_results);
+    setDraftResults(reversedResults);
   };
 
   useEffect(() => {

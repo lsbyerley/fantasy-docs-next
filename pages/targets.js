@@ -3,7 +3,12 @@ const targets = {
     'Christian McCaffrey',
     'Breece Hall',
     'Bijan Robinson',
-    'Best Available WR',
+    'CeeDee Lamb',
+    'Tyreek Hill',
+    'Amon-Ra St. Brown',
+    'Justin Jefferson',
+    'A.J. Brown',
+    'Ja\'Marr Chase',
   ],
   2: [
     'Derrick Henry',
@@ -28,6 +33,7 @@ const targets = {
     'Mark Andrews',
     'Kenneth Walker III',
     'Alvin Kamara',
+    'Josh Jacobs',
     'Lamar Jackson',
   ],
   5: [
@@ -69,16 +75,19 @@ const targets = {
     'Ladd McConkey',
     'Courtland Sutton',
     'Deandre Hopkins',
+    'Shy away TE and most RBs'
   ],
   10: [
     'Nick Chubb',
     'Chase Brown', 
     'Blake Corum',
+    'Chuba Hubbard',
     'Jared Goff',
     'Tua Tagovailoa', 
     'Trevor Lawrence', 
     'Caleb Williams',
     'Dallas Goedert',
+    'Shy away TE and most RBs'
   ],
   11: [
     'Joshua Palmer',
@@ -89,14 +98,17 @@ const targets = {
     'Zach Charbonnet',
     'J.K. Dobbins',
     'Rico Dowdle',
-    'Chuba Hubbard',
     'Tyler Allgeier',
     'Ty Chandler',
     'Jaylen Wright',
+    'Pat Freiermuth',
+    'Dontayvion Wicks',
     'Justin Herbert', 
     'Kirk Cousins',
     'Aaron Rodgers', 
     'Matthew Stafford',
+    'Las Vegas',
+    'Jason Sanders',
   ],
 };
 
