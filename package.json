@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev:local": "NODE_OPTIONS='--inspect' node server.js",
-    "dev": "next dev -H draftapp.test --experimental-https",
+    "dev": "next dev",
+    "dev:https": "next dev --experimental-https",
+    "dev:https:host": "next dev --experimental-https -H draftapp.test",
     "build": "next build",
     "start": "next start"
   },
