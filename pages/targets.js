@@ -1,114 +1,37 @@
 const targets = {
   1: [
-    'Christian McCaffrey',
-    'Breece Hall',
     'Bijan Robinson',
     'CeeDee Lamb',
-    'Tyreek Hill',
-    'Amon-Ra St. Brown',
-    'Justin Jefferson',
-    'A.J. Brown',
     'Ja\'Marr Chase',
   ],
   2: [
-    'Derrick Henry',
-    'Kyren Williams',
-    'Isiah Pacheco',
-    'Garrett Wilson',
-    'Marvin Harrison Jr.',
+
   ],
   3: [
-    'Mike Evans',
-    'Deebo Samuel Sr.',
-    'Brandon Aiyuk',
-    'Cooper Kupp',
-    'DK Metcalf',
-    'Devonta Smith',
-    'Sam LaPorta',
-    'Jalen Hurts',
-    'Josh Allen',
-    'Patrick Mahomes',
+
   ],
   4: [
-    'Mark Andrews',
-    'Kenneth Walker III',
-    'Alvin Kamara',
-    'Josh Jacobs',
-    'Lamar Jackson',
+
   ],
   5: [
-    'James Conner',
-    'David Montgomery',
-    'Aaron Jones',
-    'Amari Cooper',
-    'Tank Dell',
-    'George Pickens',
-    'Rashee Rice',
-    'Dalton Kincaid',
-    'Kyle Pitts',
-    'George Kittle',
+
   ],
   6: [
-    'Terry McLaurin',
-    'Christian Kirk',
-    'Keenan Allen',
-    'Calvin Ridley',
-    'Kyler Murray',
+
   ],
   7: [
-    'Chris Godwin',
-    'Diontae Johnson',
-    'Raheem Mostert',
-    'Najee Harris',
-    'Jonathon Brooks',
-    'Jake Ferguson',
-    'Jayden Daniels',
-  ],
-  8: [
-    'Xavier Worthy',
-    'Christian Watson',
-    'Jaxon Smith-Njigba',
     'Rome Odunze',
   ],
+  8: [
+  ],
   9: [
-    'Brian Thomas Jr.',
-    'Ladd McConkey',
-    'Courtland Sutton',
-    'Deandre Hopkins',
-    'Shy away TE and most RBs'
+
   ],
   10: [
-    'Nick Chubb',
-    'Chase Brown', 
-    'Blake Corum',
-    'Chuba Hubbard',
-    'Jared Goff',
-    'Tua Tagovailoa', 
-    'Trevor Lawrence', 
-    'Caleb Williams',
-    'Dallas Goedert',
-    'Shy away TE and most RBs'
+
   ],
   11: [
-    'Joshua Palmer',
-    'Curtis Samuel',
-    'Brandin Cooks',
-    'Rashid Shaheed',
-    'Trey Benson',
-    'Zach Charbonnet',
-    'J.K. Dobbins',
-    'Rico Dowdle',
-    'Tyler Allgeier',
-    'Ty Chandler',
-    'Jaylen Wright',
-    'Pat Freiermuth',
-    'Dontayvion Wicks',
-    'Justin Herbert', 
-    'Kirk Cousins',
-    'Aaron Rodgers', 
-    'Matthew Stafford',
-    'Las Vegas',
-    'Jason Sanders',
+
   ],
 };
 

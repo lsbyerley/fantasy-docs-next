@@ -6,45 +6,57 @@ import targets from './targets';
 import classNames from 'classnames';
 import { useIntervalWhen } from "rooks";
 
-// 2024 - 449 game key
+// Season key can be found in a mock draft looking at the network tab
+// 2024 - 449 season key
+// 2025 - 461 season key
 
-// titans - 449.l.473600
-// lads - 449.l.767057
-
+// TITANS LEAGUE
 const TITANS_2019 = '390.l.887953';
 const TITANS_2023 = '423.l.234495';
-const TITANS = '449.l.473600';
-const LADS = '449.l.767057';
+const TITANS_2024 = '449.l.473600';
+const TITANS_2025 = '461.l.926364';
+
+// LADS LEAGUE
+const LADS_2024 = '449.l.767057';
+const LADS_2025 = '461.l.247994';
+
 const MOCK_DRAFT = '449.l.9877371'
-const LEAGUE_KEY = TITANS;
+const LEAGUE_KEY = TITANS_2025;
 
-// import * as playersJson from `../assets/player-data/players-${LEAGUE_KEY}.json`
-
-export const getServerSideProps = async (ctx) => {
+export const getServerSideProps = async (context) => {
   let players;
   try {
-    players = await import(`../assets/player-data/players-${LADS}.json`);
+    players = await import(`../assets/player-data/players-${TITANS_2025}.json`);
   } catch (err) {
     console.error('LOG: error importing players json file');
   }
 
+  console.log('LOG: CONTEXT', context);
+
+  const { query } = context;
+  const { league } = query;
+
   return {
     props: {
       players: players?.data || [],
+      urlQueryLeagueKey: league || null,
     },
   };
 };
 
 // justin jefferson 449.p.32692 2024 player key
 
-const getPlayerFromKey = (playerKey, players) => {
+const getPlayerFromKey = (playerKey) => {
   return players.find((p) => p.player_key === playerKey);
 };
 
-export default function Main({ players }) {
-  const [leagueKey, setLeagueKey] = useState(LEAGUE_KEY);
+export default function Main({ players, urlQueryLeagueKey }) {
+  const leagueKey = urlQueryLeagueKey || LEAGUE_KEY;
+
+
   const [draftResults, setDraftResults] = useState([]);
   const [draftStatus, setDraftStatus] = useState();
+  const [leagueName, setLeagueName] = useState('');
 
   const fetchResults = async () => {
     const data = await api('/league/draft_results', {
@@ -54,6 +66,7 @@ export default function Main({ players }) {
 
     const reversedResults = data?.draft_results?.reverse()
 
+    setLeagueName(data?.name);
     setDraftStatus(data?.draft_status);
     setDraftResults(reversedResults);
   };
@@ -115,6 +128,8 @@ export default function Main({ players }) {
       <Head>
         <title>Yahoo! Draft Helper</title>
       </Head>
+
+      <p>{leagueName}</p>
 
       <div className='flex'>
         <div className='w-1/2'>
