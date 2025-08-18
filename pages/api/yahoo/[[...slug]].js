@@ -12,8 +12,7 @@ export default async (req, res) => {
   } = req;
 
   let accessToken;
-  const accessTokenCookie = req.headers?.cookie
-    .split("; ")
+  const accessTokenCookie = req.headers?.cookie?.split("; ")
     .find((c) => c.startsWith("accessToken"));
 
   if (accessTokenCookie) {

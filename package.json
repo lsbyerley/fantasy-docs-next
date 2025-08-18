@@ -6,6 +6,7 @@
     "dev:local": "NODE_OPTIONS='--inspect' node server.js",
     "dev": "next dev",
     "dev:https": "next dev --experimental-https",
+    "dev:https:host": "next dev --experimental-https -H draftapp.test",
     "build": "next build",
     "start": "next start"
   },
@@ -24,13 +25,17 @@
     "react-github-btn": "^1.4.0",
     "react-syntax-highlighter": "^15.5.0",
     "request": "^2.88.2",
+    "rooks": "7.14.1",
     "sass": "^1.77.8",
     "yahoo-fantasy": "^5.3.0"
   },
   "devDependencies": {
-    "babel-plugin-inline-react-svg": "^2.0.2"
+    "autoprefixer": "10.4.20",
+    "babel-plugin-inline-react-svg": "^2.0.2",
+    "postcss": "8.4.41",
+    "tailwindcss": "3.4.10"
   },
   "engines": {
-    "node": "16.x"
+    "node": "22.x"
   }
 }

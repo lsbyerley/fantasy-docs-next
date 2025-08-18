@@ -733,6 +733,9 @@ const Nav = ({ show }) => {
           </a>
         </li>
         <li>
+          <Link href="/drafthelper">DraftHelper</Link>
+        </li>
+        <li>
           {user.id ? (
             <Link
               href="/api/logout"

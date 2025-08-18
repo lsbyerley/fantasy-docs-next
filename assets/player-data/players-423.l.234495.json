@@ -1,0 +1,6251 @@
+{
+  "data": [
+    {
+      "player_key": "423.p.5228",
+      "name": "Tom Brady",
+      "position": "QB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.7200",
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.7777",
+      "name": "Marcedes Lewis",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.8780",
+      "name": "Matt Ryan",
+      "position": "QB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.8795",
+      "name": "Joe Flacco",
+      "position": "QB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.8930",
+      "name": "Matthew Slater",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.8937",
+      "name": "Josh Johnson",
+      "position": "QB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.9265",
+      "name": "Matthew Stafford",
+      "position": "QB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.9547",
+      "name": "Brian Hoyer",
+      "position": "QB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.24060",
+      "name": "Colt McCoy",
+      "position": "QB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.24070",
+      "name": "Jimmy Graham",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.24793",
+      "name": "Julio Jones",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.24797",
+      "name": "Blaine Gabbert",
+      "position": "QB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.24815",
+      "name": "Mark Ingram II",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.24822",
+      "name": "Andy Dalton",
+      "position": "QB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.24851",
+      "name": "Randall Cobb",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.24967",
+      "name": "Tyrod Taylor",
+      "position": "QB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.25718",
+      "name": "Ryan Tannehill",
+      "position": "QB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.25785",
+      "name": "Russell Wilson",
+      "position": "QB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.25798",
+      "name": "Nick Foles",
+      "position": "QB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.25812",
+      "name": "Kirk Cousins",
+      "position": "QB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.25876",
+      "name": "Marvin Jones Jr.",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.26060",
+      "name": "Cole Beasley",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.26389",
+      "name": "Brandon Bolden",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.26483",
+      "name": "Case Keenum",
+      "position": "QB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.26650",
+      "name": "DeAndre Hopkins",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.26652",
+      "name": "Cordarrelle Patterson",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.26658",
+      "name": "Zach Ertz",
+      "position": "TE",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.26662",
+      "name": "Geno Smith",
+      "position": "QB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.26664",
+      "name": "Robert Woods",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.26686",
+      "name": "Travis Kelce",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.26699",
+      "name": "Keenan Allen",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.26701",
+      "name": "Marquise Goodwin",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.26721",
+      "name": "Matt Barkley",
+      "position": "QB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.26753",
+      "name": "Kyle Juszczyk",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.26804",
+      "name": "Latavius Murray",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.27277",
+      "name": "Adam Thielen",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.27532",
+      "name": "Sammy Watkins",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.27535",
+      "name": "Mike Evans",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.27540",
+      "name": "Odell Beckham Jr.",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.27548",
+      "name": "Brandin Cooks",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.27560",
+      "name": "Teddy Bridgewater",
+      "position": "QB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.27564",
+      "name": "Derek Carr",
+      "position": "QB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.27581",
+      "name": "Davante Adams",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.27589",
+      "name": "Allen Robinson II",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.27590",
+      "name": "Jimmy Garoppolo",
+      "position": "QB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.27624",
+      "name": "Jerick McKinnon",
+      "position": "RB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.27646",
+      "name": "Martavis Bryant",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.27648",
+      "name": "Logan Thomas",
+      "position": "TE",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.27692",
+      "name": "AJ McCarron",
+      "position": "QB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.27742",
+      "name": "Garrett Gilbert",
+      "position": "QB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.28026",
+      "name": "Willie Snead IV",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.28115",
+      "name": "Damien Williams",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.28141",
+      "name": "Keith Smith",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.28279",
+      "name": "Diontae Spencer",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.28365",
+      "name": "Chris Manhertz",
+      "position": "TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.28389",
+      "name": "Jameis Winston",
+      "position": "QB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.28390",
+      "name": "Marcus Mariota",
+      "position": "QB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.28392",
+      "name": "Amari Cooper",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.28402",
+      "name": "DeVante Parker",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.28403",
+      "name": "Melvin Gordon III",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.28408",
+      "name": "Nelson Agholor",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.28414",
+      "name": "Breshad Perriman",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.28417",
+      "name": "Phillip Dorsett",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.28442",
+      "name": "Ameer Abdullah",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.28457",
+      "name": "Tyler Lockett",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.28464",
+      "name": "Chris Conley",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.28473",
+      "name": "Tyler Kroft",
+      "position": "TE",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.28477",
+      "name": "Sean Mannion",
+      "position": "QB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.28482",
+      "name": "Ty Montgomery II",
+      "position": "WR,RB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.28493",
+      "name": "Jamison Crowder",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.28505",
+      "name": "Blake Bell",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.28531",
+      "name": "MyCole Pruitt",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.28534",
+      "name": "Stefon Diggs",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.28545",
+      "name": "C.J. Uzomah",
+      "position": "TE",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.28548",
+      "name": "Jesse James",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.28556",
+      "name": "Michael Burton",
+      "position": "RB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.28592",
+      "name": "Darren Waller",
+      "position": "TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.28634",
+      "name": "Geoff Swaim",
+      "position": "TE",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.28638",
+      "name": "Trevor Siemian",
+      "position": "QB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.28654",
+      "name": "Raheem Mostert",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.28658",
+      "name": "Eric Tomlinson",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.28730",
+      "name": "Damiere Byrd",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.28839",
+      "name": "Taylor Heinicke",
+      "position": "QB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.28947",
+      "name": "DeAndre Carter",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.29070",
+      "name": "Adam Humphries",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.29235",
+      "name": "Jared Goff",
+      "position": "QB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.29236",
+      "name": "Carson Wentz",
+      "position": "QB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.29238",
+      "name": "Ezekiel Elliott",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.29257",
+      "name": "Laquon Treadwell",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.29269",
+      "name": "Hunter Henry",
+      "position": "TE",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.29274",
+      "name": "Sterling Shepard",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.29279",
+      "name": "Derrick Henry",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.29281",
+      "name": "Michael Thomas",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.29288",
+      "name": "Tyler Boyd",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.29307",
+      "name": "Kenyan Drake",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.29315",
+      "name": "Austin Hooper",
+      "position": "TE",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.29325",
+      "name": "Jacoby Brissett",
+      "position": "QB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.29328",
+      "name": "Nick Vannett",
+      "position": "TE",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.29341",
+      "name": "Chris Moore",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.29344",
+      "name": "Tyler Higbee",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.29351",
+      "name": "Pharoh Cooper",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.29360",
+      "name": "Demarcus Robinson",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.29369",
+      "name": "Dak Prescott",
+      "position": "QB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.29390",
+      "name": "Jonathan Williams",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.29399",
+      "name": "Tyreek Hill",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.29420",
+      "name": "Jakeem Grant",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.29421",
+      "name": "Nate Sudfeld",
+      "position": "QB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.29435",
+      "name": "Brandon Allen",
+      "position": "QB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.29440",
+      "name": "Mike Thomas",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.29441",
+      "name": "Jeff Driskel",
+      "position": "QB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.29470",
+      "name": "Dwayne Washington",
+      "position": "RB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.29631",
+      "name": "Kalif Raymond",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.29650",
+      "name": "J.D. McKissic",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.29666",
+      "name": "J.P. Holtz",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.29703",
+      "name": "Alex Erickson",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.29785",
+      "name": "Robbie Chosen",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.29951",
+      "name": "C.J. Ham",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.29978",
+      "name": "Jaydon Mickens",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.30112",
+      "name": "Mo Alie-Cox",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.30115",
+      "name": "Mitchell Trubisky",
+      "position": "QB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.30117",
+      "name": "Leonard Fournette",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.30118",
+      "name": "Corey Davis",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.30120",
+      "name": "Mike Williams",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.30121",
+      "name": "Christian McCaffrey",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.30122",
+      "name": "John Ross",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.30123",
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.30125",
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.30132",
+      "name": "O.J. Howard",
+      "position": "TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.30136",
+      "name": "Evan Engram",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.30142",
+      "name": "David Njoku",
+      "position": "TE",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.30150",
+      "name": "Zay Jones",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.30153",
+      "name": "Curtis Samuel",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.30154",
+      "name": "Dalvin Cook",
+      "position": "RB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.30157",
+      "name": "Gerald Everett",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.30161",
+      "name": "Joe Mixon",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.30175",
+      "name": "JuJu Smith-Schuster",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.30180",
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.30182",
+      "name": "Cooper Kupp",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.30197",
+      "name": "Chris Godwin",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.30199",
+      "name": "Kareem Hunt",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.30202",
+      "name": "D'Onta Foreman",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.30213",
+      "name": "Jonnu Smith",
+      "position": "TE",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.30217",
+      "name": "C.J. Beathard",
+      "position": "QB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.30218",
+      "name": "James Conner",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.30227",
+      "name": "Samaje Perine",
+      "position": "RB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.30230",
+      "name": "Josh Reynolds",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.30231",
+      "name": "Mack Hollins",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.30247",
+      "name": "Jamaal Williams",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.30248",
+      "name": "Joshua Dobbs",
+      "position": "QB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.30256",
+      "name": "Marlon Mack",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.30259",
+      "name": "George Kittle",
+      "position": "TE",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.30269",
+      "name": "Brian Hill",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.30275",
+      "name": "Jeremy McNichols",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.30278",
+      "name": "Jamal Agnew",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.30284",
+      "name": "Nathan Peterman",
+      "position": "QB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.30285",
+      "name": "Isaiah McKenzie",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.30287",
+      "name": "Eric Saubert",
+      "position": "TE",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.30290",
+      "name": "Trent Taylor",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.30295",
+      "name": "Aaron Jones",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.30305",
+      "name": "Alex Armah",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.30339",
+      "name": "David Moore",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.30350",
+      "name": "Isaiah Ford",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.30352",
+      "name": "Noah Brown",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.30364",
+      "name": "Mason Schreck",
+      "position": "TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.30373",
+      "name": "Johnny Mundt",
+      "position": "TE",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.30396",
+      "name": "Keelan Cole Sr.",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.30423",
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.30494",
+      "name": "Ricky Seals-Jones",
+      "position": "TE",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.30502",
+      "name": "Zach Pascal",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.30511",
+      "name": "Tim Patrick",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.30513",
+      "name": "C.J. Board",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.30523",
+      "name": "Darrell Daniels",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.30538",
+      "name": "P.J. Walker",
+      "position": "QB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.30550",
+      "name": "Victor Bolden",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.30551",
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.30552",
+      "name": "Matt Breida",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.30563",
+      "name": "Nick Mullens",
+      "position": "QB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.30571",
+      "name": "Anthony Firkser",
+      "position": "TE",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.30592",
+      "name": "Patrick Ricard",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.30614",
+      "name": "Taysom Hill",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.30627",
+      "name": "Pharaoh Brown",
+      "position": "TE",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.30660",
+      "name": "Cody Hollister",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.30661",
+      "name": "Jacob Hollister",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.30682",
+      "name": "Marcus Kemp",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.30707",
+      "name": "Corey Clement",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.30715",
+      "name": "Greg Ward",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.30740",
+      "name": "Colin Thompson",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.30777",
+      "name": "Robert Tonyan",
+      "position": "TE",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.30788",
+      "name": "Cooper Rush",
+      "position": "QB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.30860",
+      "name": "Dare Ogunbowale",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.30891",
+      "name": "Dan Arnold",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.30955",
+      "name": "River Cracraft",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.30971",
+      "name": "Baker Mayfield",
+      "position": "QB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.30972",
+      "name": "Saquon Barkley",
+      "position": "RB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.30973",
+      "name": "Sam Darnold",
+      "position": "QB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.30977",
+      "name": "Josh Allen",
+      "position": "QB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.30994",
+      "name": "DJ Moore",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.30995",
+      "name": "Hayden Hurst",
+      "position": "TE",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.30996",
+      "name": "Calvin Ridley",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.30997",
+      "name": "Rashaad Penny",
+      "position": "RB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.31001",
+      "name": "Sony Michel",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.31002",
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.31005",
+      "name": "Nick Chubb",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.31008",
+      "name": "Ronald Jones",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.31010",
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.31012",
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.31014",
+      "name": "Dante Pettis",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.31017",
+      "name": "Christian Kirk",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.31019",
+      "name": "Dallas Goedert",
+      "position": "TE",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.31021",
+      "name": "Anthony Miller",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.31030",
+      "name": "James Washington",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.31031",
+      "name": "DJ Chark",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.31041",
+      "name": "Royce Freeman",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.31046",
+      "name": "Mason Rudolph",
+      "position": "QB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.31051",
+      "name": "Michael Gallup",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.31056",
+      "name": "Mark Andrews",
+      "position": "TE",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.31061",
+      "name": "Tre'Quan Smith",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.31068",
+      "name": "Jordan Akins",
+      "position": "TE",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.31071",
+      "name": "Ian Thomas",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.31073",
+      "name": "Keke Coutee",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.31074",
+      "name": "Nyheim Hines",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.31075",
+      "name": "Antonio Callaway",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.31090",
+      "name": "Will Dissly",
+      "position": "TE",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.31093",
+      "name": "Durham Smythe",
+      "position": "TE",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.31104",
+      "name": "Chase Edmonds",
+      "position": "RB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.31107",
+      "name": "Dalton Schultz",
+      "position": "TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.31114",
+      "name": "Justin Watson",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.31126",
+      "name": "Troy Fumagalli",
+      "position": "TE",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.31127",
+      "name": "Tyler Conklin",
+      "position": "TE",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.31129",
+      "name": "Daurice Fountain",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.31139",
+      "name": "Jordan Wilkins",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.31141",
+      "name": "Mike White",
+      "position": "QB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.31144",
+      "name": "Marquez Valdes-Scantling",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.31145",
+      "name": "John Kelly",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.31155",
+      "name": "Deon Cain",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.31157",
+      "name": "Ray-Ray McCloud",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.31164",
+      "name": "Russell Gage",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.31171",
+      "name": "Boston Scott",
+      "position": "RB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.31177",
+      "name": "Equanimeous St. Brown",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.31178",
+      "name": "Cedrick Wilson Jr.",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.31180",
+      "name": "Braxton Berrios",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.31189",
+      "name": "Danny Etling",
+      "position": "QB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.31190",
+      "name": "Alex McGough",
+      "position": "QB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.31194",
+      "name": "Javon Wims",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.31198",
+      "name": "Marcell Ateman",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.31207",
+      "name": "Nick Bawden",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.31210",
+      "name": "Richie James",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.31219",
+      "name": "Logan Woodside",
+      "position": "QB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.31221",
+      "name": "Justin Jackson",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.31223",
+      "name": "Auden Tate",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.31226",
+      "name": "Trey Quinn",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.31228",
+      "name": "Mike Boone",
+      "position": "RB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.31257",
+      "name": "Tanner Hudson",
+      "position": "TE",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.31258",
+      "name": "Godwin Igwebuike",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.31268",
+      "name": "Allen Lazard",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.31283",
+      "name": "David Wells",
+      "position": "TE",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.31301",
+      "name": "Kyle Allen",
+      "position": "QB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.31320",
+      "name": "Trent Sherfield Sr.",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.31329",
+      "name": "Ross Dwelley",
+      "position": "TE",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.31394",
+      "name": "Jeff Wilson Jr.",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.31405",
+      "name": "Cam Sims",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.31424",
+      "name": "Gus Edwards",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.31431",
+      "name": "Tim Boyle",
+      "position": "QB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.31441",
+      "name": "Kevin Rader",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.31457",
+      "name": "Dontrell Hilliard",
+      "position": "RB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.31480",
+      "name": "Jason Cabinda",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.31496",
+      "name": "Byron Pringle",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.31500",
+      "name": "Darrel Williams",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.31517",
+      "name": "Keith Kirkwood",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.31588",
+      "name": "Vyncint Smith",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.31641",
+      "name": "Brandon Powell",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.31651",
+      "name": "Chris Lacy",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.31769",
+      "name": "KhaDarel Hodge",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.31777",
+      "name": "Malik Turner",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.31803",
+      "name": "John Wolford",
+      "position": "QB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.31826",
+      "name": "Jakob Johnson",
+      "position": "RB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.31833",
+      "name": "Kyler Murray",
+      "position": "QB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.31838",
+      "name": "Daniel Jones",
+      "position": "QB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.31840",
+      "name": "T.J. Hockenson",
+      "position": "TE",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.31852",
+      "name": "Noah Fant",
+      "position": "TE",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.31856",
+      "name": "Josh Jacobs",
+      "position": "RB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.31857",
+      "name": "Hollywood Brown",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.31864",
+      "name": "N'Keal Harry",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.31868",
+      "name": "Deebo Samuel Sr.",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.31874",
+      "name": "Drew Lock",
+      "position": "QB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.31882",
+      "name": "Irv Smith",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.31883",
+      "name": "A.J. Brown",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.31884",
+      "name": "Drew Sample",
+      "position": "TE",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.31885",
+      "name": "Miles Sanders",
+      "position": "RB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.31888",
+      "name": "Mecole Hardman",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.31889",
+      "name": "J.J. Arcega-Whiteside",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.31891",
+      "name": "Parris Campbell",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.31894",
+      "name": "Andy Isabella",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.31896",
+      "name": "DK Metcalf",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.31898",
+      "name": "Diontae Johnson",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.31901",
+      "name": "Josh Oliver",
+      "position": "TE",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.31902",
+      "name": "Darrell Henderson Jr.",
+      "position": "RB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.31905",
+      "name": "David Montgomery",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.31906",
+      "name": "Devin Singletary",
+      "position": "RB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.31907",
+      "name": "Jace Sternberger",
+      "position": "TE",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.31908",
+      "name": "Terry McLaurin",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.31919",
+      "name": "Damien Harris",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.31925",
+      "name": "Miles Boykin",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.31928",
+      "name": "Dawson Knox",
+      "position": "TE",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.31932",
+      "name": "Will Grier",
+      "position": "QB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.31934",
+      "name": "Alexander Mattison",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.31935",
+      "name": "Hakeem Butler",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.31945",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.31952",
+      "name": "Gary Jennings",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.31953",
+      "name": "Trevon Wesco",
+      "position": "TE",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.31954",
+      "name": "Benny Snell Jr.",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.31960",
+      "name": "Tony Pollard",
+      "position": "RB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.31965",
+      "name": "Jarrett Stidham",
+      "position": "QB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.31969",
+      "name": "Foster Moreau",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.31973",
+      "name": "Zach Gentry",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.31981",
+      "name": "Hunter Renfrow",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.31984",
+      "name": "Qadree Ollison",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.31998",
+      "name": "Easton Stick",
+      "position": "QB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.32003",
+      "name": "Darius Slayton",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.32006",
+      "name": "KeeSean Johnson",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.32008",
+      "name": "Kaden Smith",
+      "position": "TE",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.32010",
+      "name": "Gardner Minshew II",
+      "position": "QB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32014",
+      "name": "Trayveon Williams",
+      "position": "RB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.32018",
+      "name": "Ty Johnson",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.32019",
+      "name": "Juwann Winfree",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.32029",
+      "name": "Trace McSorley",
+      "position": "QB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.32036",
+      "name": "Travis Homer",
+      "position": "RB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32040",
+      "name": "Scotty Miller",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.32046",
+      "name": "Darwin Thompson",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.32060",
+      "name": "Tommy Sweeney",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32063",
+      "name": "Alize Mack",
+      "position": "TE",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.32066",
+      "name": "Myles Gaskin",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.32123",
+      "name": "Olamide Zaccheaus",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.32124",
+      "name": "Alex Bachman",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32125",
+      "name": "Kendall Blanton",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.32137",
+      "name": "Nsimba Webster",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32138",
+      "name": "Jake Browning",
+      "position": "QB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.32140",
+      "name": "Khari Blasingame",
+      "position": "RB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32141",
+      "name": "Davion Davis",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.32142",
+      "name": "Brandon Dillon",
+      "position": "TE",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.32148",
+      "name": "Elijah Holyfield",
+      "position": "RB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.32187",
+      "name": "Steven Sims",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.32189",
+      "name": "Trinity Benson",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.32201",
+      "name": "Jalen Guyton",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32221",
+      "name": "Brett Rypien",
+      "position": "QB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32225",
+      "name": "Andrew Beck",
+      "position": "RB,TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.32231",
+      "name": "Jakobi Meyers",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32250",
+      "name": "Ian Bunting",
+      "position": "TE",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.32272",
+      "name": "David Blough",
+      "position": "QB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.32273",
+      "name": "Stephen Carlson",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32283",
+      "name": "D.J. Montgomery",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.32292",
+      "name": "Ashton Dulin",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.32293",
+      "name": "Penny Hart",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.32342",
+      "name": "Keelan Doss",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32344",
+      "name": "Alec Ingold",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.32364",
+      "name": "John Lovett",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.32367",
+      "name": "Cody Thompson",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.32378",
+      "name": "Darrius Shepherd",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.32383",
+      "name": "Austin Walter",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32390",
+      "name": "Devine Ozigbo",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.32398",
+      "name": "Deonte Harty",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.32415",
+      "name": "Tyree Jackson",
+      "position": "TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.32418",
+      "name": "David Sills",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.32438",
+      "name": "Trenton Irwin",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.32439",
+      "name": "Patrick Laird",
+      "position": "RB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.32442",
+      "name": "Chris Myarick",
+      "position": "RB,TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.32447",
+      "name": "Preston Williams",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.32456",
+      "name": "Donald Parham Jr.",
+      "position": "TE",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.32469",
+      "name": "Stanley Morgan Jr.",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.32488",
+      "name": "Malik Taylor",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.32494",
+      "name": "Lil'Jordan Humphrey",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.32502",
+      "name": "Damarea Crockett",
+      "position": "RB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.32511",
+      "name": "Tyron Billy-Johnson",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.32523",
+      "name": "Greg Dortch",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.32533",
+      "name": "Jeff Smith",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.32543",
+      "name": "Daniel Helm",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32547",
+      "name": "Jason Moore",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.32551",
+      "name": "Matt Sokol",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.32561",
+      "name": "Tom Kennedy",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.32576",
+      "name": "Jesper Horsted",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.32588",
+      "name": "Parker Hesse",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.32596",
+      "name": "Craig Reynolds",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.32600",
+      "name": "Jody Fortson Jr.",
+      "position": "TE",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.32608",
+      "name": "D'Ernest Johnson",
+      "position": "RB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.32612",
+      "name": "Gunner Olszewski",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.32630",
+      "name": "Derrick Gore",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.32642",
+      "name": "Jordan Ta'amu",
+      "position": "QB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.32662",
+      "name": "Chris Streveler",
+      "position": "QB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.32669",
+      "name": "Jacques Patrick",
+      "position": "RB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.32671",
+      "name": "Joe Burrow",
+      "position": "QB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.32675",
+      "name": "Tua Tagovailoa",
+      "position": "QB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.32676",
+      "name": "Justin Herbert",
+      "position": "QB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.32685",
+      "name": "Jerry Jeudy",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.32687",
+      "name": "CeeDee Lamb",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.32691",
+      "name": "Jalen Reagor",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.32692",
+      "name": "Justin Jefferson",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.32695",
+      "name": "Brandon Aiyuk",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.32696",
+      "name": "Jordan Love",
+      "position": "QB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.32702",
+      "name": "Clyde Edwards-Helaire",
+      "position": "RB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.32703",
+      "name": "Tee Higgins",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.32704",
+      "name": "Michael Pittman Jr.",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.32705",
+      "name": "D'Andre Swift",
+      "position": "RB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32711",
+      "name": "Jonathan Taylor",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.32712",
+      "name": "Laviska Shenault Jr.",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.32713",
+      "name": "Cole Kmet",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32716",
+      "name": "KJ Hamler",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.32719",
+      "name": "Chase Claypool",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.32722",
+      "name": "Cam Akers",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.32723",
+      "name": "Jalen Hurts",
+      "position": "QB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.32725",
+      "name": "J.K. Dobbins",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.32727",
+      "name": "Van Jefferson",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.32729",
+      "name": "Denzel Mims",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.32732",
+      "name": "AJ Dillon",
+      "position": "RB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.32736",
+      "name": "Antonio Gibson",
+      "position": "RB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.32746",
+      "name": "Ke'Shawn Vaughn",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.32750",
+      "name": "Lynn Bowden Jr.",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.32751",
+      "name": "Bryan Edwards",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.32756",
+      "name": "Zack Moss",
+      "position": "RB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.32761",
+      "name": "Devin Asiasi",
+      "position": "TE",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.32762",
+      "name": "Devin Duvernay",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.32763",
+      "name": "Darrynton Evans",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.32764",
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.32771",
+      "name": "Dalton Keene",
+      "position": "TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.32775",
+      "name": "Adam Trautman",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.32782",
+      "name": "Joshua Kelley",
+      "position": "RB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.32785",
+      "name": "Harrison Bryant",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32788",
+      "name": "Albert Okwuegbunam Jr.",
+      "position": "TE",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.32790",
+      "name": "La'Mical Perine",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.32792",
+      "name": "Jacob Eason",
+      "position": "QB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.32794",
+      "name": "Anthony McFarland",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.32798",
+      "name": "Gabe Davis",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.32803",
+      "name": "Colby Parkinson",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.32806",
+      "name": "Brycen Hopkins",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.32814",
+      "name": "DeeJay Dallas",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.32821",
+      "name": "Joe Reed",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.32831",
+      "name": "Tyler Johnson",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.32835",
+      "name": "Collin Johnson",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32836",
+      "name": "Quintez Cephus",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.32837",
+      "name": "Jake Fromm",
+      "position": "QB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.32838",
+      "name": "John Hightower",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.32841",
+      "name": "Isaiah Coulter",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.32842",
+      "name": "Jason Huntley",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.32843",
+      "name": "Darnell Mooney",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.32846",
+      "name": "K.J. Osborn",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.32857",
+      "name": "Donovan Peoples-Jones",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.32859",
+      "name": "Jake Luton",
+      "position": "QB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.32860",
+      "name": "Charlie Woerner",
+      "position": "TE",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.32870",
+      "name": "Quez Watkins",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.32871",
+      "name": "James Proche II",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.32876",
+      "name": "Tyler Davis",
+      "position": "TE",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.32877",
+      "name": "Isaiah Hodgins",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.32882",
+      "name": "Dezmon Patmon",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.32884",
+      "name": "Freddie Swain",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.32887",
+      "name": "Jauan Jennings",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.32892",
+      "name": "Eno Benjamin",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.32901",
+      "name": "Ben DiNucci",
+      "position": "QB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.32921",
+      "name": "Stephen Sullivan",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.32922",
+      "name": "Tyrie Cleveland",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.32929",
+      "name": "Kendall Hinton",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.32943",
+      "name": "Andre Baccellia",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.32948",
+      "name": "Cody White",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.32970",
+      "name": "Noah Togiai",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.32978",
+      "name": "Jeff Cotton",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.32993",
+      "name": "Tyler Huntley",
+      "position": "QB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.33001",
+      "name": "Jaylon Moore",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33006",
+      "name": "Ty'Son Williams",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.33020",
+      "name": "Isaiah Zuber",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.33021",
+      "name": "Jake Bargas",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.33023",
+      "name": "Dan Chisena",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.33028",
+      "name": "J.J. Taylor",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33057",
+      "name": "Juwan Green",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33064",
+      "name": "Jared Pinkney",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.33088",
+      "name": "Jonathan Ward",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.33100",
+      "name": "Rico Dowdle",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.33101",
+      "name": "Sean McKeon",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33109",
+      "name": "Marquez Callaway",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33113",
+      "name": "Juwan Johnson",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33114",
+      "name": "Tony Jones",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.33124",
+      "name": "Ben Ellefson",
+      "position": "TE",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.33127",
+      "name": "Josh Hammond",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33138",
+      "name": "James Robinson",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33151",
+      "name": "Giovanni Ricci",
+      "position": "TE",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.33168",
+      "name": "Scotty Washington",
+      "position": "WR,TE",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.33171",
+      "name": "Mitchell Wilcox",
+      "position": "TE",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.33199",
+      "name": "JaMycal Hasty",
+      "position": "RB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.33235",
+      "name": "Patrick Taylor Jr.",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.33242",
+      "name": "Kirk Merritt",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33253",
+      "name": "Trishton Jackson",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.33254",
+      "name": "J.J. Koski",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.33258",
+      "name": "Bryce Perkins",
+      "position": "QB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.33265",
+      "name": "Salvon Ahmed",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.33279",
+      "name": "Reid Sinnett",
+      "position": "QB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.33286",
+      "name": "Tyler Mabry",
+      "position": "TE",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.33299",
+      "name": "Easop Winston Jr.",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.33302",
+      "name": "Ja'Marcus Bradley",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.33315",
+      "name": "Nick Bowers",
+      "position": "TE",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.33329",
+      "name": "Lawrence Cager",
+      "position": "TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.33340",
+      "name": "Tommy Hudson",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33348",
+      "name": "Nick Westbrook-Ikhine",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.33349",
+      "name": "Kristian Wilkerson",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.33351",
+      "name": "Mason Kinsey",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.33357",
+      "name": "Reggie Gilliam",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.33367",
+      "name": "Dominique Dafney",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.33376",
+      "name": "Chris Blair",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33384",
+      "name": "Mathew Sexton",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33386",
+      "name": "Sammis Reyes",
+      "position": "TE",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.33389",
+      "name": "Trevor Lawrence",
+      "position": "QB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33390",
+      "name": "Zach Wilson",
+      "position": "QB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.33391",
+      "name": "Trey Lance",
+      "position": "QB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.33392",
+      "name": "Kyle Pitts",
+      "position": "TE",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33393",
+      "name": "Ja'Marr Chase",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.33394",
+      "name": "Jaylen Waddle",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.33398",
+      "name": "DeVonta Smith",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.33399",
+      "name": "Justin Fields",
+      "position": "QB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.33403",
+      "name": "Mac Jones",
+      "position": "QB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33408",
+      "name": "Kadarius Toney",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.33412",
+      "name": "Najee Harris",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.33413",
+      "name": "Travis Etienne Jr.",
+      "position": "RB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33415",
+      "name": "Rashod Bateman",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.33422",
+      "name": "Elijah Moore",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.33423",
+      "name": "Javonte Williams",
+      "position": "RB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.33437",
+      "name": "Rondale Moore",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33443",
+      "name": "Pat Freiermuth",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.33444",
+      "name": "Dee Eskridge",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.33445",
+      "name": "Tutu Atwell",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.33447",
+      "name": "Terrace Marshall Jr.",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.33452",
+      "name": "Kyle Trask",
+      "position": "QB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.33454",
+      "name": "Kellen Mond",
+      "position": "QB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.33455",
+      "name": "Davis Mills",
+      "position": "QB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33465",
+      "name": "Joshua Palmer",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.33469",
+      "name": "Hunter Long",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.33470",
+      "name": "Dyami Brown",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.33471",
+      "name": "Tommy Tremble",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.33473",
+      "name": "Amari Rodgers",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.33476",
+      "name": "Trey Sermon",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.33477",
+      "name": "Nico Collins",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33479",
+      "name": "Anthony Schwartz",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.33485",
+      "name": "Tre' McKitty",
+      "position": "TE",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.33495",
+      "name": "Michael Carter",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.33497",
+      "name": "Dez Fitzpatrick",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.33500",
+      "name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33507",
+      "name": "Kene Nwangwu",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.33508",
+      "name": "Rhamondre Stevenson",
+      "position": "RB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.33512",
+      "name": "John Bates",
+      "position": "TE",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.33514",
+      "name": "Chuba Hubbard",
+      "position": "RB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.33515",
+      "name": "Kylen Granson",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.33517",
+      "name": "Jaelon Darden",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.33519",
+      "name": "Tylan Wallace",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.33521",
+      "name": "Ian Book",
+      "position": "QB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.33529",
+      "name": "Jacob Harris",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.33533",
+      "name": "Luke Farrell",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33535",
+      "name": "Brevin Jordan",
+      "position": "TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33538",
+      "name": "Kenneth Gainwell",
+      "position": "RB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.33545",
+      "name": "Ihmir Smith-Marsette",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.33550",
+      "name": "Noah Gray",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.33556",
+      "name": "Zach Davidson",
+      "position": "TE",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.33567",
+      "name": "Simi Fehoko",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.33569",
+      "name": "Cornell Powell",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.33571",
+      "name": "Avery Williams",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33572",
+      "name": "Ben Mason",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.33575",
+      "name": "Frank Darby",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.33582",
+      "name": "Elijah Mitchell",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.33584",
+      "name": "Gary Brightwell",
+      "position": "RB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33586",
+      "name": "Larry Rountree III",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33590",
+      "name": "Chris Evans",
+      "position": "RB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.33591",
+      "name": "Marquez Stevenson",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.33592",
+      "name": "Shi Smith",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.33593",
+      "name": "Racey McMath",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.33597",
+      "name": "Jalen Camp",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.33599",
+      "name": "Demetric Felton",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.33605",
+      "name": "Khalil Herbert",
+      "position": "RB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.33606",
+      "name": "Sam Ehlinger",
+      "position": "QB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.33607",
+      "name": "Seth Williams",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33609",
+      "name": "Dazz Newsome",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.33620",
+      "name": "Mike Strachan",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.33621",
+      "name": "Jake Funk",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33630",
+      "name": "Tre Nixon",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.33632",
+      "name": "Gerrid Doaks",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33637",
+      "name": "Ben Skowronek",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33642",
+      "name": "Kawaan Baker",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.33644",
+      "name": "Jermar Jefferson",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33645",
+      "name": "Dax Milne",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.33649",
+      "name": "Tim Jones",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33676",
+      "name": "Hunter Kampmoyer",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.33692",
+      "name": "Stevie Scott",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.33705",
+      "name": "Kenny Yeboah",
+      "position": "TE",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.33706",
+      "name": "Jaret Patterson",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.33710",
+      "name": "Brandon Smith",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.33714",
+      "name": "Nick Eubanks",
+      "position": "TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.33724",
+      "name": "Spencer Brown",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33729",
+      "name": "Feleipe Franks",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.33732",
+      "name": "Caleb Huntley",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33741",
+      "name": "John Raine",
+      "position": "TE",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33745",
+      "name": "Austin Trammell",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33759",
+      "name": "Bernhard Seikovits",
+      "position": "TE",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.33774",
+      "name": "Brock Wright",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33783",
+      "name": "Blake Proehl",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.33793",
+      "name": "Nate McCrary",
+      "position": "RB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.33797",
+      "name": "Tarik Black",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.33798",
+      "name": "Deon Jackson",
+      "position": "RB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.33801",
+      "name": "Nick Guggemos",
+      "position": "TE",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.33803",
+      "name": "Shane Zylstra",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33804",
+      "name": "Matt Bushman",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.33813",
+      "name": "DJ Turner",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.33819",
+      "name": "Quintin Morris",
+      "position": "TE",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.33828",
+      "name": "Josh Pederson",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.33830",
+      "name": "Austin Watkins Jr.",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.33836",
+      "name": "Miller Forristall",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.33858",
+      "name": "Cade Johnson",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.33864",
+      "name": "Connor Wedington",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.33879",
+      "name": "Shane Buechele",
+      "position": "QB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.33891",
+      "name": "Jack Stoll",
+      "position": "TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.33901",
+      "name": "Adam Prentice",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33909",
+      "name": "CJ Marable",
+      "position": "RB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.33921",
+      "name": "C.J. Saunders",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33928",
+      "name": "Michael Bandy",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.33932",
+      "name": "Sal Cannella",
+      "position": "TE",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.33936",
+      "name": "Michael Jacobson",
+      "position": "TE",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33950",
+      "name": "Nikola Kalinic",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.33953",
+      "name": "Devon Allen",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.33963",
+      "name": "Drake London",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.33965",
+      "name": "Garrett Wilson",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.33966",
+      "name": "Chris Olave",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.33967",
+      "name": "Jameson Williams",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.33971",
+      "name": "Jahan Dotson",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.33973",
+      "name": "Treylon Burks",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.33975",
+      "name": "Kenny Pickett",
+      "position": "QB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.33989",
+      "name": "Christian Watson",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.33991",
+      "name": "Breece Hall",
+      "position": "RB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.33996",
+      "name": "Kenneth Walker III",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.33998",
+      "name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.33999",
+      "name": "John Metchie III",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.34005",
+      "name": "Tyquan Thornton",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.34007",
+      "name": "George Pickens",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34008",
+      "name": "Alec Pierce",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.34009",
+      "name": "Skyy Moore",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34010",
+      "name": "Trey McBride",
+      "position": "TE",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.34019",
+      "name": "James Cook",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.34027",
+      "name": "Velus Jones Jr.",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.34029",
+      "name": "Jelani Woods",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.34030",
+      "name": "Desmond Ridder",
+      "position": "QB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.34036",
+      "name": "Greg Dulcich",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.34042",
+      "name": "Malik Willis",
+      "position": "QB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.34044",
+      "name": "Jalen Tolbert",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34047",
+      "name": "Rachaad White",
+      "position": "RB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.34049",
+      "name": "Tyrion Davis-Price",
+      "position": "RB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.34050",
+      "name": "Matt Corral",
+      "position": "QB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.34054",
+      "name": "Brian Robinson Jr.",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.34055",
+      "name": "David Bell",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.34057",
+      "name": "Jeremy Ruckert",
+      "position": "TE",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.34061",
+      "name": "Danny Gray",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.34062",
+      "name": "Cade Otton",
+      "position": "TE",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.34063",
+      "name": "Dameon Pierce",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.34068",
+      "name": "Daniel Bellinger",
+      "position": "TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.34078",
+      "name": "Zamir White",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.34079",
+      "name": "Isaiah Spiller",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.34081",
+      "name": "Erik Ezukanma",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.34083",
+      "name": "Pierre Strong Jr.",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.34084",
+      "name": "Charlie Kolar",
+      "position": "TE",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.34085",
+      "name": "Jake Ferguson",
+      "position": "TE",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34087",
+      "name": "Hassan Haskins",
+      "position": "RB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.34088",
+      "name": "Romeo Doubs",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.34093",
+      "name": "Bailey Zappe",
+      "position": "QB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.34094",
+      "name": "Calvin Austin III",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34095",
+      "name": "Isaiah Likely",
+      "position": "TE",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.34099",
+      "name": "Chigoziem Okonkwo",
+      "position": "TE",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.34100",
+      "name": "Sam Howell",
+      "position": "QB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.34104",
+      "name": "Khalil Shakir",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.34105",
+      "name": "Cole Turner",
+      "position": "TE",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.34107",
+      "name": "Tyler Allgeier",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.34110",
+      "name": "Snoop Conner",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34112",
+      "name": "Jerome Ford",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.34118",
+      "name": "Montrell Washington",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34119",
+      "name": "Kyle Philips",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.34120",
+      "name": "Kyren Williams",
+      "position": "RB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.34125",
+      "name": "Ty Chandler",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.34126",
+      "name": "Teagan Quitoriano",
+      "position": "TE",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.34133",
+      "name": "James Mitchell",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.34139",
+      "name": "Kevin Harris",
+      "position": "RB",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.34147",
+      "name": "Jalen Nailor",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.34148",
+      "name": "Drew Ogletree",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.34152",
+      "name": "Tyler Badie",
+      "position": "RB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.34154",
+      "name": "Grant Calcaterra",
+      "position": "TE",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.34157",
+      "name": "Keaontay Ingram",
+      "position": "RB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34158",
+      "name": "Michael Woods II",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.34159",
+      "name": "Trestan Ebner",
+      "position": "RB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.34163",
+      "name": "Connor Heyward",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34169",
+      "name": "John FitzPatrick",
+      "position": "TE",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.34174",
+      "name": "Ko Kieft",
+      "position": "TE",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.34183",
+      "name": "Nick Muse",
+      "position": "TE",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.34185",
+      "name": "Bo Melton",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.34189",
+      "name": "Dareke Young",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.34197",
+      "name": "Chris Oladokun",
+      "position": "QB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34203",
+      "name": "Skylar Thompson",
+      "position": "QB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.34206",
+      "name": "Brittain Brown",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.34207",
+      "name": "Isiah Pacheco",
+      "position": "RB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34214",
+      "name": "Samori Toure",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.34216",
+      "name": "Zander Horvath",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.34218",
+      "name": "Brock Purdy",
+      "position": "QB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.34223",
+      "name": "Ra'Shaun Henry",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.34225",
+      "name": "John Lovett",
+      "position": "RB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.34229",
+      "name": "Charleston Rambo",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.34231",
+      "name": "Derek Wright",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.34234",
+      "name": "Bryant Koback",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.34242",
+      "name": "Kevin Austin Jr.",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.34252",
+      "name": "Gerrit Prince",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34256",
+      "name": "BJ Baylor",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.34261",
+      "name": "Tyler Goodson",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.34274",
+      "name": "Curtis Hodges",
+      "position": "TE",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.34276",
+      "name": "Kyric McGowan",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.34278",
+      "name": "Armani Rogers",
+      "position": "TE",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.34284",
+      "name": "Jared Bernhardt",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.34285",
+      "name": "Stanley Berryhill",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.34300",
+      "name": "Thomas Odukoya",
+      "position": "TE",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.34306",
+      "name": "Jontre Kirklin",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.34309",
+      "name": "Chris Pierce",
+      "position": "TE",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.34310",
+      "name": "Ronnie Rivers",
+      "position": "RB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.34319",
+      "name": "Tay Martin",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.34320",
+      "name": "Jordan Mason",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.34330",
+      "name": "Lance McCutcheon",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.34346",
+      "name": "E.J. Perry",
+      "position": "QB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.34356",
+      "name": "Irvin Charles",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.34357",
+      "name": "Zonovan Knight",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.34360",
+      "name": "Chase Allen",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.34373",
+      "name": "Master Teague",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34374",
+      "name": "Jake Tonges",
+      "position": "TE",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.34377",
+      "name": "Kennedy Brooks",
+      "position": "RB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.34378",
+      "name": "Britain Covey",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.34387",
+      "name": "Shemar Bridges",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.34389",
+      "name": "Anthony Brown",
+      "position": "QB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.34403",
+      "name": "Makai Polk",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.34407",
+      "name": "Raleigh Webb",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.34434",
+      "name": "Jerrion Ealy",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34440",
+      "name": "Justyn Ross",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34442",
+      "name": "Slade Bolden",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.34447",
+      "name": "Jaylen Warren",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34451",
+      "name": "Julius Chestnut",
+      "position": "RB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.34466",
+      "name": "Reggie Roberson Jr.",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.34473",
+      "name": "Kwamie Lassiter II",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.34476",
+      "name": "Kendric Pryor",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.34478",
+      "name": "Mike Harley Jr.",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.34484",
+      "name": "Kekoa Crawford",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34489",
+      "name": "Zaire Mitchell-Paden",
+      "position": "TE",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.34493",
+      "name": "Ethan Fernea",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.34494",
+      "name": "Isaiah Weston",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.34495",
+      "name": "Justin Rigg",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34506",
+      "name": "Kaylon Geiger",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.34513",
+      "name": "Tanner Conner",
+      "position": "TE",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.34520",
+      "name": "Deven Thompkins",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.34534",
+      "name": "Braylon Sanders",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.34543",
+      "name": "Cole Fotheringham",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.34544",
+      "name": "Greg Bell",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34545",
+      "name": "Chase Garbers",
+      "position": "QB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.34548",
+      "name": "Derrick Deese Jr.",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.34551",
+      "name": "Sincere McCormick",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.34563",
+      "name": "Kalil Pimpleton",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.34569",
+      "name": "Kaden Davis",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.34571",
+      "name": "Brandon Johnson",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.34573",
+      "name": "Tyreik McAllister",
+      "position": "RB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.34579",
+      "name": "Jalen Virgil",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.34581",
+      "name": "Rodney Williams",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34591",
+      "name": "Drew Estrada",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.34592",
+      "name": "Dennis Houston",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.34594",
+      "name": "Aaron Shampklin",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.34596",
+      "name": "Seth Green",
+      "position": "TE",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34597",
+      "name": "Troy Hairston",
+      "position": "RB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.34601",
+      "name": "Johnny Johnson III",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.34607",
+      "name": "Peyton Hendershot",
+      "position": "TE",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34608",
+      "name": "Dontario Drummond",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34609",
+      "name": "Ty Fryfogle",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.34610",
+      "name": "Malik Davis",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34617",
+      "name": "Raheem Blackshear",
+      "position": "RB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.34623",
+      "name": "Jalen Wydermyer",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.34625",
+      "name": "Tucker Fisk",
+      "position": "TE",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.34637",
+      "name": "Stone Smartt",
+      "position": "TE",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.34654",
+      "name": "Lucas Krull",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.34659",
+      "name": "Rashid Shaheed",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.34660",
+      "name": "Abram Smith",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.34664",
+      "name": "Austin Allen",
+      "position": "TE",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.34665",
+      "name": "Jashaun Corbin",
+      "position": "RB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.34673",
+      "name": "Dre Miller",
+      "position": "WR,TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.34689",
+      "name": "Jarrett Guarantano",
+      "position": "QB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.34709",
+      "name": "KaVontae Turpin",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.34712",
+      "name": "Maurice Alexander",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.34713",
+      "name": "Daylen Baldwin",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.34719",
+      "name": "Josh Ali",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40003",
+      "name": "Clint Ratkovich",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40016",
+      "name": "Nathan Rourke",
+      "position": "QB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40029",
+      "name": "Bryce Young",
+      "position": "QB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.40030",
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.40039",
+      "name": "Zay Flowers",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40040",
+      "name": "Anthony Richardson",
+      "position": "QB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40041",
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40042",
+      "name": "Jordan Addison",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40048",
+      "name": "Dalton Kincaid",
+      "position": "TE",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.40051",
+      "name": "Quentin Johnston",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.40055",
+      "name": "Bijan Robinson",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40059",
+      "name": "Jahmyr Gibbs",
+      "position": "RB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.40061",
+      "name": "Luke Schoonmaker",
+      "position": "TE",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40063",
+      "name": "Jayden Reed",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40064",
+      "name": "Sam LaPorta",
+      "position": "TE",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.40065",
+      "name": "Michael Mayer",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.40068",
+      "name": "Will Levis",
+      "position": "QB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40073",
+      "name": "Jonathan Mingo",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.40074",
+      "name": "Luke Musgrave",
+      "position": "TE",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40075",
+      "name": "Zach Charbonnet",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40078",
+      "name": "Brenton Strange",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40084",
+      "name": "Rashee Rice",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.40090",
+      "name": "Marvin Mims Jr.",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40093",
+      "name": "Cedric Tillman",
+      "position": "WR",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.40094",
+      "name": "Darnell Washington",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40095",
+      "name": "Tank Bigsby",
+      "position": "RB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40096",
+      "name": "Hendon Hooker",
+      "position": "QB",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.40097",
+      "name": "Tank Dell",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.40101",
+      "name": "Cameron Latu",
+      "position": "TE",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.40102",
+      "name": "Tucker Kraft",
+      "position": "TE",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40108",
+      "name": "Kendre Miller",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.40114",
+      "name": "Tre Tucker",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.40118",
+      "name": "De'Von Achane",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.40119",
+      "name": "Tyjae Spears",
+      "position": "RB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40121",
+      "name": "Michael Wilson",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40126",
+      "name": "Josh Downs",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40128",
+      "name": "Jalin Hyatt",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.40133",
+      "name": "Derius Davis",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.40138",
+      "name": "Aidan O'Connell",
+      "position": "QB",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.40141",
+      "name": "Tyler Scott",
+      "position": "WR",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.40144",
+      "name": "Jake Haener",
+      "position": "QB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.40153",
+      "name": "Stetson Bennett",
+      "position": "QB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40158",
+      "name": "Charlie Jones",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40162",
+      "name": "Roschon Johnson",
+      "position": "RB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.40164",
+      "name": "Davis Allen",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40165",
+      "name": "Israel Abanikanda",
+      "position": "RB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40167",
+      "name": "Justin Shorter",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.40168",
+      "name": "Puka Nacua",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40169",
+      "name": "Evan Hull",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40173",
+      "name": "Sean Clifford",
+      "position": "QB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40180",
+      "name": "Will Mallory",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40182",
+      "name": "Josh Whyle",
+      "position": "TE",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40185",
+      "name": "Jaren Hall",
+      "position": "QB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40188",
+      "name": "Clayton Tune",
+      "position": "QB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40193",
+      "name": "Payne Durham",
+      "position": "TE",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40195",
+      "name": "Dorian Thompson-Robinson",
+      "position": "QB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.40196",
+      "name": "Chase Brown",
+      "position": "RB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40198",
+      "name": "Eric Gray",
+      "position": "RB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.40201",
+      "name": "Dontayvion Wicks",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40211",
+      "name": "Andrei Iosivas",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40220",
+      "name": "Tanner McKee",
+      "position": "QB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.40222",
+      "name": "DeMario Douglas",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.40223",
+      "name": "Trey Palmer",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40224",
+      "name": "Kayshon Boutte",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.40226",
+      "name": "Elijah Higgins",
+      "position": "TE",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40231",
+      "name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.40232",
+      "name": "Xavier Hutchinson",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.40234",
+      "name": "Parker Washington",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40240",
+      "name": "Deuce Vaughn",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40242",
+      "name": "A.T. Perry",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.40243",
+      "name": "Zach Evans",
+      "position": "RB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40251",
+      "name": "Grant DuBose",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40254",
+      "name": "Derek Parish",
+      "position": "RB,TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40255",
+      "name": "Zack Kuntz",
+      "position": "TE",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40257",
+      "name": "Jalen Brooks",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40260",
+      "name": "Lew Nichols",
+      "position": "RB",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.40261",
+      "name": "Brayden Willis",
+      "position": "TE",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.40263",
+      "name": "Colton Dowell",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40267",
+      "name": "Kenny McIntosh",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40272",
+      "name": "Max Duggan",
+      "position": "QB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.40279",
+      "name": "Ronnie Bell",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.40281",
+      "name": "Antoine Green",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.40285",
+      "name": "DeWayne McBride",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40288",
+      "name": "Jared Wayne",
+      "position": "WR",
+      "team_abbrev": "Hou"
+    },
+    {
+      "player_key": "423.p.40289",
+      "name": "Tanner Morgan",
+      "position": "QB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40290",
+      "name": "Malik Cunningham",
+      "position": "QB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40298",
+      "name": "Robert Burns",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40299",
+      "name": "Adrian Martinez",
+      "position": "QB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40300",
+      "name": "Cephus Johnson III",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40308",
+      "name": "Malik Knowles",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40311",
+      "name": "Kazmeir Allen",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.40313",
+      "name": "Mitchell Tinsley",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.40322",
+      "name": "Thayer Thomas",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40324",
+      "name": "Monte Pottebaum",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40326",
+      "name": "Kearis Jackson",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40331",
+      "name": "Jordan Byrd",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40334",
+      "name": "Charles McClelland",
+      "position": "RB",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40335",
+      "name": "Ben Sims",
+      "position": "TE",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40338",
+      "name": "Shaquan Davis",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.40344",
+      "name": "Sy Barnett",
+      "position": "WR",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.40345",
+      "name": "SaRodorick Thompson Jr.",
+      "position": "RB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40346",
+      "name": "Joel Wilson",
+      "position": "TE",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40348",
+      "name": "Terrell Bynum",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.40352",
+      "name": "Michael Ezeike",
+      "position": "TE",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40354",
+      "name": "Pokey Wilson",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.40358",
+      "name": "Elijah Dotson",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.40361",
+      "name": "Tyler Hoosman",
+      "position": "RB",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.40367",
+      "name": "Jaray Jenkins",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40372",
+      "name": "Oliver Martin",
+      "position": "WR,CB",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40374",
+      "name": "Elijah Cooks",
+      "position": "WR",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40375",
+      "name": "Leonard Taylor",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40384",
+      "name": "Tyler Hudson",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40388",
+      "name": "Sam James",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40390",
+      "name": "Tiyon Evans",
+      "position": "RB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.40393",
+      "name": "Christian Sims",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40394",
+      "name": "Zion Bowens",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.40399",
+      "name": "Xavier Smith",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40400",
+      "name": "Dresser Winn",
+      "position": "QB",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40402",
+      "name": "Ronald Awatt",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.40405",
+      "name": "Shae Wyatt",
+      "position": "WR",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.40406",
+      "name": "Jack Colletto",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40407",
+      "name": "Brycen Tremayne",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.40409",
+      "name": "Jalen Sample",
+      "position": "WR",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.40410",
+      "name": "Khalan Laborn",
+      "position": "RB",
+      "team_abbrev": "SF"
+    },
+    {
+      "player_key": "423.p.40417",
+      "name": "Tim DeMorat",
+      "position": "QB",
+      "team_abbrev": "Was"
+    },
+    {
+      "player_key": "423.p.40418",
+      "name": "Justin Marshall",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40419",
+      "name": "Keilahn Harris",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40420",
+      "name": "Carlos Washington Jr.",
+      "position": "RB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40424",
+      "name": "Zay Malone",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40425",
+      "name": "Malik Flowers",
+      "position": "WR",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.40428",
+      "name": "Joel Honigford",
+      "position": "TE",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40430",
+      "name": "Emari Demercado",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40432",
+      "name": "Daniel Arias",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40433",
+      "name": "Blake Whiteheart",
+      "position": "TE",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40437",
+      "name": "Camren McDonald",
+      "position": "TE",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40438",
+      "name": "Duece Watts",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40444",
+      "name": "Henry Pearson",
+      "position": "RB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40445",
+      "name": "Malik Heath",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40450",
+      "name": "Holton Ahlers",
+      "position": "QB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40452",
+      "name": "Jake Bobo",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40455",
+      "name": "Marcus Cooper",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40458",
+      "name": "Matt Landers",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.40459",
+      "name": "John Hall",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40460",
+      "name": "Griffin Hebert",
+      "position": "TE",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.40461",
+      "name": "C.J. Johnson",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40462",
+      "name": "Calvin Tyler Jr.",
+      "position": "RB",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40463",
+      "name": "Noah Gindorff",
+      "position": "TE",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40464",
+      "name": "Tyjon Lindsey",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40466",
+      "name": "Isaiah Winstead",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40472",
+      "name": "Christian Trahan",
+      "position": "TE",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40474",
+      "name": "Jacob Saylors",
+      "position": "RB",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.40477",
+      "name": "Patrick Murtagh",
+      "position": "TE",
+      "team_abbrev": "Jax"
+    },
+    {
+      "player_key": "423.p.40487",
+      "name": "Mac Hippenhammer",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40491",
+      "name": "Shedrick Jackson",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40497",
+      "name": "Damien Caffrey",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.40503",
+      "name": "Thyrick Pitts",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40504",
+      "name": "Tyson Bagent",
+      "position": "QB",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.40505",
+      "name": "Aron Cruickshank",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40507",
+      "name": "Hassan Hall",
+      "position": "RB",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40514",
+      "name": "Joseph Ngata",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.40515",
+      "name": "Jadon Haselwood",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.40519",
+      "name": "Brady Russell",
+      "position": "TE",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40520",
+      "name": "Johnny King",
+      "position": "WR",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.40521",
+      "name": "Darius Hagans",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40529",
+      "name": "Bryce Ford-Wheaton",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.40533",
+      "name": "Tommy DeVito",
+      "position": "QB",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.40535",
+      "name": "Ryan Jones",
+      "position": "TE",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.40539",
+      "name": "Zavier Scott",
+      "position": "WR,RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40541",
+      "name": "Braxton Westfield",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40542",
+      "name": "Titus Swen",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40545",
+      "name": "Jason Brownlee",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40546",
+      "name": "Travis Dye",
+      "position": "RB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40548",
+      "name": "Xavier Gipson",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40550",
+      "name": "E.J. Jenkins",
+      "position": "TE",
+      "team_abbrev": "Phi"
+    },
+    {
+      "player_key": "423.p.40553",
+      "name": "T.J. Luther",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40556",
+      "name": "Levi Bell",
+      "position": "RB",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40565",
+      "name": "Ty Scott",
+      "position": "WR",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40570",
+      "name": "Deneric Prince",
+      "position": "RB",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.40571",
+      "name": "Nikko Remigio",
+      "position": "WR",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.40582",
+      "name": "Josh Vann",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.40586",
+      "name": "Mohamed Ibrahim",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40587",
+      "name": "Camerun Peoples",
+      "position": "RB",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.40590",
+      "name": "Chase Cota",
+      "position": "WR",
+      "team_abbrev": "NYG"
+    },
+    {
+      "player_key": "423.p.40595",
+      "name": "Thomas Greaney",
+      "position": "TE",
+      "team_abbrev": "Cle"
+    },
+    {
+      "player_key": "423.p.40600",
+      "name": "Chris Smith",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40607",
+      "name": "Kody Case",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40609",
+      "name": "Tyler Adams",
+      "position": "WR",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40616",
+      "name": "Charles Henry",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40619",
+      "name": "Daewood Davis",
+      "position": "WR",
+      "team_abbrev": "Car"
+    },
+    {
+      "player_key": "423.p.40620",
+      "name": "Chris Coleman",
+      "position": "WR",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.40622",
+      "name": "James Blackman",
+      "position": "QB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.40625",
+      "name": "Chris Brooks",
+      "position": "RB",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.40629",
+      "name": "Julian Hill",
+      "position": "TE",
+      "team_abbrev": "Mia"
+    },
+    {
+      "player_key": "423.p.40630",
+      "name": "Tyrell Shavers",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.40631",
+      "name": "Jordan Mims",
+      "position": "RB",
+      "team_abbrev": "NO"
+    },
+    {
+      "player_key": "423.p.40634",
+      "name": "Jalen Wayne",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40637",
+      "name": "Johnny Lumpkin",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40639",
+      "name": "Owen Wright",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40640",
+      "name": "Sean Ryan",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40641",
+      "name": "Keaton Mitchell",
+      "position": "RB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40642",
+      "name": "Dontay Demus Jr.",
+      "position": "WR",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40643",
+      "name": "Travis Vokolek",
+      "position": "TE",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40644",
+      "name": "Brian Walker",
+      "position": "TE",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40645",
+      "name": "Nolan Henderson",
+      "position": "QB",
+      "team_abbrev": "Bal"
+    },
+    {
+      "player_key": "423.p.40666",
+      "name": "Braxton Burmeister",
+      "position": "WR",
+      "team_abbrev": "LAR"
+    },
+    {
+      "player_key": "423.p.40671",
+      "name": "Rakim Jarrett",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40672",
+      "name": "Taye Barber",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40673",
+      "name": "Kade Warner",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40676",
+      "name": "Ryan Miller",
+      "position": "WR",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40679",
+      "name": "Ronnie Brown",
+      "position": "RB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40680",
+      "name": "Tanner Taula",
+      "position": "TE",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40689",
+      "name": "Isaiah Bowser",
+      "position": "RB",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.40695",
+      "name": "Dallas Daniels",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40696",
+      "name": "Jaleel McLaughlin",
+      "position": "RB",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40702",
+      "name": "Nate Adkins",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40703",
+      "name": "Taylor Grimes",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40705",
+      "name": "Kris Leach",
+      "position": "TE",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40707",
+      "name": "Emanuel Wilson",
+      "position": "RB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40710",
+      "name": "Jacob Copeland",
+      "position": "WR",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40712",
+      "name": "Tre'Shaun Harrison",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40721",
+      "name": "Xazavian Valladay",
+      "position": "RB",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40728",
+      "name": "Jesse Matthews",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40733",
+      "name": "John Samuel Shenker",
+      "position": "TE",
+      "team_abbrev": "LV"
+    },
+    {
+      "player_key": "423.p.40734",
+      "name": "Alfonzo Graham",
+      "position": "RB",
+      "team_abbrev": "Pit"
+    },
+    {
+      "player_key": "423.p.40737",
+      "name": "Dylan Drummond",
+      "position": "WR",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40740",
+      "name": "Gavin Holmes",
+      "position": "WR",
+      "team_abbrev": "Ten"
+    },
+    {
+      "player_key": "423.p.40742",
+      "name": "Sean Tucker",
+      "position": "RB",
+      "team_abbrev": "TB"
+    },
+    {
+      "player_key": "423.p.40748",
+      "name": "Ellis Merriweather",
+      "position": "RB",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40751",
+      "name": "Zach Ojile",
+      "position": "RB",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40757",
+      "name": "Austin Aune",
+      "position": "QB",
+      "team_abbrev": "Atl"
+    },
+    {
+      "player_key": "423.p.40760",
+      "name": "Jordan Murray",
+      "position": "TE",
+      "team_abbrev": "Ind"
+    },
+    {
+      "player_key": "423.p.40762",
+      "name": "Bryan Thompson",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.40764",
+      "name": "Braydon Johnson",
+      "position": "WR",
+      "team_abbrev": "Buf"
+    },
+    {
+      "player_key": "423.p.40770",
+      "name": "Brian Cobbs",
+      "position": "WR",
+      "team_abbrev": "Ari"
+    },
+    {
+      "player_key": "423.p.40772",
+      "name": "Jose Barbon",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40773",
+      "name": "David Durden",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40774",
+      "name": "Jalen Cropper",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40778",
+      "name": "Princeton Fant",
+      "position": "TE",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40780",
+      "name": "Hunter Luepke",
+      "position": "RB",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40782",
+      "name": "John Stephens Jr.",
+      "position": "WR",
+      "team_abbrev": "Dal"
+    },
+    {
+      "player_key": "423.p.40791",
+      "name": "Lucky Jackson",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40793",
+      "name": "Jadakis Bonds",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40796",
+      "name": "Jerome Kapp",
+      "position": "WR",
+      "team_abbrev": "NYJ"
+    },
+    {
+      "player_key": "423.p.40797",
+      "name": "Cody Chrest",
+      "position": "WR",
+      "team_abbrev": "GB"
+    },
+    {
+      "player_key": "423.p.40800",
+      "name": "Malachi Carter",
+      "position": "WR",
+      "team_abbrev": "Cin"
+    },
+    {
+      "player_key": "423.p.40801",
+      "name": "Izaiah Gathings",
+      "position": "TE",
+      "team_abbrev": "KC"
+    },
+    {
+      "player_key": "423.p.40804",
+      "name": "Garett Maag",
+      "position": "WR",
+      "team_abbrev": "Min"
+    },
+    {
+      "player_key": "423.p.40805",
+      "name": "Ed Lee",
+      "position": "WR",
+      "team_abbrev": "NE"
+    },
+    {
+      "player_key": "423.p.40806",
+      "name": "Nick Williams",
+      "position": "WR",
+      "team_abbrev": "Den"
+    },
+    {
+      "player_key": "423.p.40830",
+      "name": "Milton Wright",
+      "position": "WR",
+      "team_abbrev": "LAC"
+    },
+    {
+      "player_key": "423.p.40832",
+      "name": "Wayne Taulapapa",
+      "position": "RB",
+      "team_abbrev": "Sea"
+    },
+    {
+      "player_key": "423.p.40840",
+      "name": "Lachlan Pitts",
+      "position": "TE",
+      "team_abbrev": "Chi"
+    },
+    {
+      "player_key": "423.p.40841",
+      "name": "Avery Davis",
+      "position": "WR",
+      "team_abbrev": "Det"
+    },
+    {
+      "player_key": "423.p.40851",
+      "name": "Aaron Dykes",
+      "position": "RB",
+      "team_abbrev": "Min"
+    }
+  ]
+  
+}
