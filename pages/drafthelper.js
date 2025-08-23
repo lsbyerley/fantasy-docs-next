@@ -20,7 +20,7 @@ const TITANS_2025 = '461.l.926364';
 const LADS_2024 = '449.l.767057';
 const LADS_2025 = '461.l.247994';
 
-const MOCK_DRAFT = '449.l.9877371'
+const MOCK_DRAFT = '461.l.9385319';
 const LEAGUE_KEY = TITANS_2025;
 
 export const getServerSideProps = async (context) => {
@@ -44,15 +44,12 @@ export const getServerSideProps = async (context) => {
   };
 };
 
-// justin jefferson 449.p.32692 2024 player key
-
-const getPlayerFromKey = (playerKey) => {
+const getPlayerFromKey = (playerKey, players) => {
   return players.find((p) => p.player_key === playerKey);
 };
 
 export default function Main({ players, urlQueryLeagueKey }) {
   const leagueKey = urlQueryLeagueKey || LEAGUE_KEY;
-
 
   const [draftResults, setDraftResults] = useState([]);
   const [draftStatus, setDraftStatus] = useState();
@@ -126,7 +123,7 @@ export default function Main({ players, urlQueryLeagueKey }) {
   return (
     <Layout>
       <Head>
-        <title>Yahoo! Draft Helper</title>
+        <title>{leagueName} - Yahoo! Draft Helper</title>
       </Head>
 
       <p>{leagueName}</p>
