@@ -29,9 +29,9 @@ const targets = {
     'Calvin Ridley',
     'Courtland Sutton',
     'Zay Flowers',
+    'Jerry Jeudy',
     'Tetairoa McMillan',
     'DK Metcalf',
-    'Jakobi Meyers',
     'Jauan Jennings',
     'Stefon Diggs',
     'Khalil Shakir',
@@ -52,18 +52,22 @@ const targets = {
     'Isiah Pacheco',
   ],
   7: [
+    'Jakobi Meyers',
     'D\'Andre Swift',
     'TreVeyon Henderson'
   ],
   8: [
-    'Justin Fields',
     'Jayden Reed',
     'Matthew Golden',
-    'Keon Coleman',
-    'Tucker Kraft',
     'Tyler Warren',
   ],
+  9: [
+    'Justin Fields',
+    'Tucker Kraft',
+    'Keon Coleman',
+  ],
   10: [
+    'Tank Bigsby',
     'Jordan Love',
     'Justin Herbert',
     'Brock Purdy',
@@ -72,7 +76,6 @@ const targets = {
     'Drake Maye',
     'C.J. Stroud',
     'J.J. McCarthy',
-    'Tank Bigsby',
     'Tyjae Spears',
     'Zach Charbonnet',
     'Rachaad White',
@@ -91,6 +94,7 @@ const targets = {
     'Marvin Mims',
     'Braelon Allen',
     'Jaydon Blue',
+    'Jalen Coker',
   ],
   12: [
     'Hunter Henry'
