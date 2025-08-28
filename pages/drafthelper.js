@@ -126,7 +126,7 @@ export default function Main({ players, urlQueryLeagueKey }) {
         <title>{leagueName} - Yahoo! Draft Helper</title>
       </Head>
 
-      <p>{leagueName}</p>
+      <p>{leagueName}({draftStatus})</p>
 
       <div className='flex'>
         <div className='w-1/2'>

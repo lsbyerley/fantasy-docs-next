@@ -1,6 +1,8 @@
 const targets = {
   1: [
-    'CeeDee Lamb'
+    'CeeDee Lamb',
+    'Brian Thomas Jr.',
+    'Nico Collins',
   ],
   2: [
     'Bucky Irving',
@@ -32,7 +34,6 @@ const targets = {
     'Jerry Jeudy',
     'Tetairoa McMillan',
     'DK Metcalf',
-    'Jauan Jennings',
     'Stefon Diggs',
     'Khalil Shakir',
     'Josh Downs',
